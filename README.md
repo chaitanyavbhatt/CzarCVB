@@ -1,7 +1,7 @@
 ### Hi there! I'm Chaitanya Vishnu Bhatt. I'm a CSE undergrad.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 Hey there! My name is Chaitanya Vishnu Bhatt. I'm a CSE major currently in my final year. A dedicated engineering student with lifelong love of technology, my goal is to be associated with an organisation where I can put my skills to good use and learn alot at the same time. 
-<img align="right" alt="GIF" src="https://github.com/apoorvdwi/apoorvdwi/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="Bebop" src="https://i.gifer.com/VvZ.gif" width="500" height="320" />
 
 Here are some *important* details about me:
 
@@ -27,6 +27,7 @@ Here are some *important* details about me:
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
