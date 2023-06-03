@@ -1,7 +1,7 @@
 ### Hi there! I'm Chaitanya Vishnu Bhatt. I'm a CSE undergrad.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 Hey there! My name is Chaitanya Vishnu Bhatt. I'm a CSE major currently in my final year. A dedicated engineering student with lifelong love of technology, my goal is to be associated with an organisation where I can put my skills to good use and learn alot at the same time. 
-<img align="right" alt="Bebop" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZkY2FkZGQ4MWU3YTM2ZDZhZWMyYTQzODljNjBjNzM2YzliMzlmOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ZDZYjNki8esvt0qVAG/giphy.gif" width="500" height="420" />
+<img align="right" alt="Bebop" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZkY2FkZGQ4MWU3YTM2ZDZhZWMyYTQzODljNjBjNzM2YzliMzlmOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ZDZYjNki8esvt0qVAG/giphy.gif" width="520" height="400" />
 
 Here are some *important* details about me:
 
