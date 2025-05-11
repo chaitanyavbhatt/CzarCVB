@@ -36,9 +36,9 @@ Here are some *important* details about me:
 
 **Github Stats**
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=chaitanyavbhatt&show_icons=true&theme=gotham" alt="CzarCVB" />  
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyavbhatt&layout=compact&show_icons=true&theme=gotham&hide=jupyter%20notebook" alt="CzarCVB" />
-  <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=chaitanyavbhatt&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="CzarCVB" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=chaitanyavbhatt&show_icons=true&theme=gotham" alt="chaitanyavbhatt" />  
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyavbhatt&layout=compact&show_icons=true&theme=gotham&hide=jupyter%20notebook" alt="chaitanyavbhatt" />
+  <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=chaitanyavbhatt&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="chaitanyavbhatt" />
 </div>
 
 
